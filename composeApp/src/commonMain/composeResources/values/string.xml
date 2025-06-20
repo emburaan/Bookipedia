@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+
+    <!--BookList Screen-->
+    <string name="search_hint">Search...</string>
+    <string name="close_hint">Clear Search</string>
+    <string name="search_results"> Search Results</string>
+    <string name="favourites">Favourites</string>
+    <string name="no_search_results">No search result.</string>
+    <string name="no_favourites">No favourite book.</string>
+    <string name="error_disk_full">Disk full.</string>
+    <string name="error_unknown">Something went wrong.</string>
+    <string name="error_request_timeout">The request timed out.</string>
+    <string name="error_no_internet">Network not connected.</string>
+    <string name="error_too_many_requests">No favourite book</string>
+    <string name="error_serialization">couldn't parse data</string>
+
+    <!--BookCover Screen-->
+    <string name="book_cover">Book Cover</string>
+    <string name="rating">Rating</string>
+    <string name="pages">Pages</string>
+    <string name="languages">Languages</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="desc_unavailable">Description not available.</string>
+    <string name="go_back">Go Back</string>
+    <string name="mark_as_favourite">Mark as favourite</string>
+    <string name="remove_from_favourites">Remove from favourites</string>
+
+</resources>
